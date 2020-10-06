@@ -1,7 +1,7 @@
- #JetBrains Academy. Project: Tic-Tac-Toe
+# JetBrains Academy. Project: Tic-Tac-Toe
  
- ##Description
- Tic-tac-toe is a game played by two players on a 3x3 field.
+## Description
+Tic-tac-toe is a game played by two players on a 3x3 field.
 - One of the players plays as 'X', and the other player is 'O'. 'X' plays first, then the 'O' side plays, and so on.
 - The players write 'X' and 'O' on a 3x3 field.
 - The first player that writes 3 'X' or 3 'O' in a straight line (including diagonals) wins.
@@ -11,7 +11,7 @@ Suppose the bottom left cell has the coordinates (1, 1) and the top right cell h
  (1, 2) (2, 2) (3, 2)
  (1, 1) (2, 1) (3, 1)
  
- ##Example
+ ## Example
 
 ```text
 
