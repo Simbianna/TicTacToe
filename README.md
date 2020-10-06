@@ -7,9 +7,11 @@ Tic-tac-toe is a game played by two players on a 3x3 field.
 - The first player that writes 3 'X' or 3 'O' in a straight line (including diagonals) wins.
 
 Suppose the bottom left cell has the coordinates (1, 1) and the top right cell has the coordinates (3, 3) like in this table:
- (1, 3) (2, 3) (3, 3)
- (1, 2) (2, 2) (3, 2)
- (1, 1) (2, 1) (3, 1)
+
+|(1, 3)|(2, 3)|(3, 3)|
+|------|------|------|
+|(1, 2)|(2, 2)|(3, 2)|
+|(1, 1)|(2, 1)|(3, 1)|
  
  ## Example
 
